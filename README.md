@@ -29,6 +29,6 @@ Posición	Documento	Suma TF-IDF
 2	Documento 3	0.0491
 3	Documento 5	0.0358
 …	…	…
-[Ejecución 1 del codigo TF-IDF](/imagenes/prueba1.png)
-[Ejecución 2 del codigo TF-IDF](/imagenes/prueba2.png)
-[Ejecución 3 del codigoTF-IDF](/imagenes/prueba3.png)
+![Ejecución 1 del código TF-IDF](imagenes\prueba1.png)
+[Ejecución 2 del codigo TF-IDF](imagenes\prueba2.png)
+[Ejecución 3 del codigoTF-IDF](\imagenes\prueba3.png)
