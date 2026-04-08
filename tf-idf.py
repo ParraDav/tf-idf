@@ -99,7 +99,7 @@ def tf_idf(term, document, documents):
     return tf(term, document) * idf(term, documents)
 
 # Consulta
-consulta = "estudiante"
+consulta = "evaluación docente aprendizaje"
 
 # Dividir términos
 terms = consulta.split()
